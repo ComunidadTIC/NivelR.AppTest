@@ -1,0 +1,672 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"end",
+				"end	end (ERB)"
+			],
+			[
+				"pos",
+				"posts_url"
+			],
+			[
+				"def",
+				"defi	Define initializer method"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"numb",
+				"numberImageCurrent"
+			],
+			[
+				"sli",
+				"slideShowStart"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"re",
+				"removeClass"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"ima",
+				"imageCurrent"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fu",
+				"fullName"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"nu",
+				"number-4"
+			],
+			[
+				"numbe",
+				"number-2"
+			],
+			[
+				"n",
+				"number-2"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"bna",
+				"background-color"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"se",
+				"seguimiento-online"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"p",
+				"photos"
+			],
+			[
+				"Calib",
+				"CalibriBold"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"bowe",
+				"bower_components"
+			],
+			[
+				"b",
+				"bower_components"
+			],
+			[
+				"dat",
+				"datos_asiento"
+			],
+			[
+				"EX",
+				"exportCSV"
+			],
+			[
+				"W",
+				"widget"
+			],
+			[
+				"tas",
+				"tasksLS"
+			],
+			[
+				"loca",
+				"localStorage"
+			],
+			[
+				"to",
+				"toBe"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.rdoc",
+			"settings":
+			{
+				"buffer_size": 906,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 153.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Decrement Number by 10"
+			],
+			[
+				"emm",
+				"Emmet: Increment Number by 1"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/NivelR.AppTest"
+	],
+	"file_history":
+	[
+		"/var/www/NivelR/Projects/AppTest/README.rdoc",
+		"/var/www/homeworks-Coursera/app/views/posts/show.html.erb",
+		"/var/www/homeworks-Coursera/app/controllers/posts_controller.rb",
+		"/var/www/homeworks-Coursera/app/views/layouts/application.html.erb",
+		"/home/axionline/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/axionline/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/axionline/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/axionline/.config/sublime-text-3/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/home/axionline/Desktop/JobSearch.cshtml",
+		"/var/www/homeworks-Coursera/config/routes.rb",
+		"/var/www/homeworks-Coursera/app/controllers/comments_controller.rb",
+		"/var/www/homeworks-Coursera/app/models/comment.rb",
+		"/var/www/homeworks-Coursera/app/models/post.rb",
+		"/var/www/homeworks-Coursera/.gitignore",
+		"/var/www/homeworks-Coursera/README.md",
+		"/var/www/Coursera/README.md",
+		"/home/axionline/Documents/Axionline/Neron/MaxiKioscoScriptSQL.sql",
+		"/home/axionline/Desktop/1 - 5 - Module 1 Lecture 4- Design Patterns (10-27).srt",
+		"/var/www/Axionline/Projects/Publientregas/stylus/index.styl",
+		"/var/www/Axionline/Projects/Publientregas/page-home.php",
+		"/var/www/Axionline/Projects/Publientregas/js/global.js",
+		"/var/www/Axionline/Projects/Publientregas/pdf-brochure.php",
+		"/var/www/Axionline/Projects/Publientregas/page-empresa.php",
+		"/var/www/Axionline/Projects/Publientregas/contact-form.php",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/VDA-864.diff",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/VDA-854.diff",
+		"/tmp/fz3temp-1/configuration.php",
+		"/tmp/fz3temp-1/index.php",
+		"/tmp/fz3temp-1/wp-mail.php",
+		"/tmp/fz3temp-1/wp-config.php",
+		"/tmp/fz3temp-1/wp-settings.php",
+		"/tmp/fz3temp-1/wp-config 2.php",
+		"/var/www/Axionline/Projects/Publientregas/page-area-cobertura.php",
+		"/var/www/Axionline/Projects/Publientregas/publientregas.pub",
+		"/media/axionline/SAMSUNG/Programas (F)/Contactos para agustin107 (hotmail).ctt",
+		"/var/www/Axionline/Projects/Publientregas/stylus/promocion-distribucion.styl",
+		"/var/www/Axionline/Projects/Publientregas/stylus/area-cobertura.styl",
+		"/var/www/Axionline/Projects/Publientregas/stylus/footer.styl",
+		"/var/www/Axionline/Projects/Publientregas/stylus/header.styl",
+		"/var/www/Axionline/Projects/Publientregas/footer.php",
+		"/var/www/Axionline/Projects/Publientregas/css/index.css",
+		"/var/www/Axionline/Projects/Publientregas/css/header.css",
+		"/var/www/Axionline/Projects/Publientregas/css/area-cobertura.css",
+		"/var/www/Axionline/Projects/Publientregas/stylus/contacto.styl",
+		"/var/www/Axionline/Projects/Publientregas/page-contacto.php",
+		"/var/www/Axionline/Projects/Publientregas/page-seguimiento-online.php",
+		"/var/www/Axionline/Projects/Publientregas/stylus/seguimiento-online.styl",
+		"/var/www/Axionline/Projects/Publientregas/page-distribucion.php",
+		"/var/www/Axionline/Projects/Publientregas/page-promocion.php",
+		"/var/www/Axionline/Projects/Publientregas/stylus/section.styl",
+		"/var/www/Axionline/Projects/Publientregas/stylus/clientes.styl",
+		"/var/www/Axionline/Projects/Publientregas/header.php",
+		"/var/www/Axionline/Projects/Publientregas/stylus/general.styl",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/VDA-874.diff",
+		"/var/www/Axionline/Projects/Publientregas/stylus/main.styl",
+		"/var/www/Axionline/Projects/Publientregas/package.json",
+		"/var/www/Axionline/Projects/Publientregas/mockup/empresa.html",
+		"/var/www/Axionline/Projects/Publientregas/mockup/promocion.html",
+		"/var/www/Axionline/Projects/Publientregas/mockup/distribucion.html",
+		"/var/www/Axionline/Projects/Publientregas/mockup/contacto.html",
+		"/var/www/Axionline/Projects/Publientregas/mockup/seguimiento-online.html",
+		"/var/www/Axionline/Projects/Publientregas/css/promocion-distribucion.css",
+		"/var/www/Axionline/Projects/Publientregas/css/main.css",
+		"/var/www/Axionline/Projects/Publientregas/mockup/index.html",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/VDA-818.diff",
+		"/var/www/Axionline/Projects/Publientregas/css/clientes.css",
+		"/var/www/Axionline/Projects/Publientregas/functions.php",
+		"/var/www/Axionline/Projects/Publientregas/js/vendor/bootstrap/js/carousel.js",
+		"/var/www/Axionline/Projects/Publientregas/mockup/area-cobertura.html",
+		"/var/www/Axionline/Projects/Publientregas/.htaccess",
+		"/var/www/Axionline/Projects/Publientregas/stylus/_variables.styl",
+		"/var/www/Axionline/Projects/Publientregas/.tmp/styles/main.css",
+		"/var/www/Axionline/Projects/MedicinaRosario/medicina-rosario-mra/contact-form.php",
+		"/var/www/Axionline/Projects/Publientregas/page-servicios.php",
+		"/var/www/Axionline/Projects/Publientregas/.bowerrc",
+		"/home/axionline/Desktop/db-change.sql",
+		"/home/axionline/Desktop/diff-query.diff",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/header.php",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/app/index.html",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/package.json",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/app/stylus/footer.styl",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/Gruntfile.js",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/app/stylus/index.styl",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/app/stylus/general.styl",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/app/stylus/main.styl",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/app/stylus/header.styl",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/app/fonts/ef_conv_zip_HBHpsMy_f1uNCoh92JCkjweF/Candaras.css",
+		"/var/www/Axionline/Projects/Publientregas/wp-content/themes/publientregas/app/fonts/Candaras.css",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/app/styles/main.styl",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/app/styles/main.css",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/package.json",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/app/scripts/config.js",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/Gruntfile.js",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/app/index.html",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/app/scripts/app.js",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/bower_components/bootstrap/Gruntfile.js",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/bower.json",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/app/config.js",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/.tmp/styles/main.css",
+		"/var/www/Axionline/Website/sitio-web-en-construcci-n-2015/app/views/main.html",
+		"/home/axionline/Desktop/_Layout.cshtml",
+		"/media/axionline/Data/VirtualBox VMs/Windows 7 - VS2010/Windows 7.vbox",
+		"/media/axionline/Data/VirtualBox VMs/Windows 7 - VS2010/Windows 7.vbox-prev",
+		"/home/axionline/Documents/Globant/LAN Romeo Alfa/Diffs/Venta-de-asientos/VDA-302.diff",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/apps/lib/perl/Resiber/SeatMap.pm",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/apps/lib/perl_mvc/models/Persistence/Objects/Checkin_Revenue/Mapa_Venta_Asientos_Checkin.pm",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/sftp-config.json",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/apps/lib/perl_mvc/models/Persistence/Access_Data/Checkin.pm",
+		"/var/www/LAN/LANLegacyApp/VDA-1253/apps/cgi-bin/checkin/get_seat_map.cgi",
+		"/var/www/LAN/LANLegacyApp/VDA-1253/apps/lib/perl_mvc/views/Checkin/Xml_Builder.pm",
+		"/var/www/LAN/LANLegacyApp/VDA-1253/apps/lib/perl_mvc/models/Booking_Engine/Util/Checkin/Check_In.pm",
+		"/var/www/LAN/LANLegacyApp/VDA-1253/apps/lib/perl_mvc/models/Booking_Engine/Data/Checkin.pm",
+		"/var/www/LAN/LANLegacyApp/VDA-1253/apps/lib/perl_mvc/models/Booking_Engine/Seat_Map.pm",
+		"/var/www/LAN/LANLegacyApp/VDA-1253/apps/lib/perl/Resiber/SeatMap.pm",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/apps/lib/perl_mvc/models/Booking_Engine/Util/Checkin/Check_In.pm",
+		"/var/www/LAN/LANLegacyApp/trunk/apps/lib/perl_mvc/models/Booking_Engine/Util/Checkin/Check_In.pm",
+		"/var/www/LAN/LANLegacyApp/EN38585/apps/lib/perl_mvc/models/Booking_Engine/Util/Checkin/Check_In.pm",
+		"/var/www/LAN/LANLegacyApp/EN38585/apps/lib/perl_mvc/views/Checkin/Xml_Builder.pm",
+		"/var/www/LAN/LANLegacyApp/EN38585/apps/lib/perl/Resiber/SeatMap.pm",
+		"/var/www/LAN/LANLegacyApp/trunk/t/unit/models/Booking_Engine/Pago_Reserva.t",
+		"/var/www/LAN/LANLegacyApp/trunk/t/unit/models/Booking_Engine/Fare_Saver.t",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/t/unit/models/Booking_Engine/Pago_Reserva.t",
+		"/var/www/LAN/LANLegacyApp/VDA-12533/t/unit/models/Booking_Engine/Fare_Saver.t",
+		"/var/www/LAN/LANLegacyApp/VDA-1253/t/unit/models/Booking_Engine/Pago_Reserva.t",
+		"/var/www/LAN/LANLegacyApp/VDA-1253/t/unit/models/Booking_Engine/Fare_Saver.t",
+		"/var/www/LAN/LANLegacyApp/EN38585/t/unit/models/Booking_Engine/Pago_Reserva.t",
+		"/var/www/LAN/LANLegacyApp/EN38585/t/unit/models/Booking_Engine/Fare_Saver.t",
+		"/var/www/LAN/LANLegacyApp/trunk/apps/lib/perl_mvc/models/Booking_Engine/Util/Airlines.pm"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/Axionline/Projects/Publientregas",
+			"<open files>",
+			"/var/www/Axionline/Projects/Publientregas",
+			"",
+			"/var/www/LAN/LANLegacyApp/VDA-12533/apps/lib/perl_mvc/models/Booking_Engine",
+			"/var/www/LAN/LANLegacyApp/VDA-1253/apps/lib/perl_mvc/ctrls/Apps/Toolbox/Ventas_Empresas"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"->",
+			"beta",
+			"ro",
+			"azafatas",
+			"?>\n",
+			"gallery",
+			"../",
+			"Puerta",
+			"			",
+			"<div class=\"form-group\">\n              <label for=\"exampleInputEmail1\">Email address</label>\n              <input type=\"email\" class=\"form-control\" id=\"exampleInputEmail1\" placeholder=\"Enter email\">\n            </div>\n            <div class=\"form-group\">\n              <label for=\"exampleInputPassword1\">Password</label>\n              <input type=\"password\" class=\"form-control\" id=\"exampleInputPassword1\" placeholder=\"Password\">\n            </div>\n            <div class=\"form-group\">\n              <label for=\"exampleInputFile\">File input</label>\n              <input type=\"file\" id=\"exampleInputFile\">\n              <p class=\"help-block\">Example block-level help text here.</p>\n            </div>\n            <div class=\"checkbox\">\n              <label>\n                <input type=\"checkbox\"> Check me out\n              </label>\n            </div>\n            <button type=\"submit\" class=\"btn btn-default\">Submit</button>\n          </form>",
+			">\n",
+			"La",
+			"2px",
+			"clientes",
+			"			",
+			"5px",
+			"language",
+			"stylus",
+			"autoprefixer",
+			"ccc",
+			"watch",
+			"cssmin",
+			"@",
+			"findSeatDetailsFromMapWithSeatSale",
+			"$self->{'asientos_internet'}",
+			"get_asientos_internet",
+			"get_seat_map_xml_data",
+			"calcula_asientos_internet_db",
+			"get_internet_seats_from_db",
+			"findSeatDetailsFromMapWithSeatSale",
+			"get_asientos_from_ruta_material_categoria_familia",
+			"get_internet_seats_from_db",
+			"calcula_asientos_internet_db",
+			"asientos_internet",
+			"agramire",
+			"$self->{'asientos_internet'}",
+			"calcula_asientos_internet_db",
+			"get_seat_map_xml_data",
+			"calcula_asientos_internet_db",
+			"get_internet_seats_from_db",
+			"get_asientos_from_ruta_material_categoria_familia",
+			"load_xml_seat_data",
+			"calcula_asientos_internet_db",
+			"RESULTADO_IMPORT",
+			"get_type_view_output",
+			"Widgets::Toolbox::Ventas_Empresas::Ventas_Empresa_AR",
+			"Widgets::Toolbox::Ventas_Empresas::Ventas_Empresa_AR()",
+			"one_document_per_cuv",
+			"karma",
+			"watch",
+			"whatch",
+			"watch",
+			"jshint",
+			"newer",
+			"INclude",
+			"html",
+			"ServerName"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"-->",
+			"<?php bloginfo('template_url')?>/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.rdoc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "NivelR-AppTest.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

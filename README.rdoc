@@ -1,0 +1,34 @@
+== AppTest
+
+=== Aplicación para crear test de evaluación con su respuesta correcta y alternativas. El objetivo es probar diferentes frameworks web en Ruby.
+
+La finalidad de este proyecto es que se pueda realizar test online, dónde el usuario pueda cargar una lista de preguntas y respuestas, indicar cuales es o son las verdaderas para cada pregunta, y pueda compartir ya sea por email o redes sociales.
+
+---
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Especificaciones para el proyecto:
+
+* Ruby version =>
+
+* System dependencies =>
+
+* Configuration =>
+
+* Database creation =>
+
+* Database initialization =>
+
+* How to run the test suite =>
+
+* Services (job queues, cache servers, search engines, etc.) =>
+
+* Deployment instructions =>
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.

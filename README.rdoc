@@ -11,9 +11,9 @@ application up and running.
 
 Especificaciones para el proyecto:
 
-* Ruby version =>
+* Ruby version => 2.2.2
 
-* System dependencies =>
+* System dependencies => en el Gemfile
 
 * Configuration =>
 

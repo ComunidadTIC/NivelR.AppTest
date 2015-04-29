@@ -16,6 +16,9 @@ Especificaciones para el proyecto:
 * System dependencies => en el Gemfile
 
 * Configuration =>
+    export DATABASE_NAME=AppTest_development
+    export DATABASE_USER=postgres
+    export DATABASE_PASSWORD=yourPass
 
 * Database creation =>
 
